@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net6.0\refint\05.PrintEvenNumbers.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\05.PrintEvenNumbers\obj\Debug\net6.0\ref\05.PrintEvenNumbers.dll

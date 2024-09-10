@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\net6.0\refint\04.MatchingBrackets.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\04.MatchingBrackets\obj\Debug\net6.0\ref\04.MatchingBrackets.dll

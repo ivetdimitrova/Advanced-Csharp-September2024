@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DYb4hleBT1g=",
+  "success": true,
+  "projectFilePath": "C:\\1.C#\\C# Advanced - септември 2024\\C# Advanced - септември 2024\\1.StacksAndQueues-Lab\\06.Supermarket\\06.Supermarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivetd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\ivetd\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\ivetd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\ivetd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

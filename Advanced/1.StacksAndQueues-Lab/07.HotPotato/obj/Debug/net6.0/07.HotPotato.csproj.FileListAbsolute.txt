@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\07.HotPotato\bin\Debug\net6.0\07.HotPotato.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\07.HotPotato\bin\Debug\net6.0\07.HotPotato.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\07.HotPotato\bin\Debug\net6.0\07.HotPotato.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\07.HotPotato\bin\Debug\net6.0\07.HotPotato.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\07.HotPotato\bin\Debug\net6.0\07.HotPotato.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\07.HotPotato\obj\Debug\net6.0\07.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\07.HotPotato\obj\Debug\net6.0\07.HotPotato.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\07.HotPotato\obj\Debug\net6.0\07.HotPotato.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\07.HotPotato\obj\Debug\net6.0\07.HotPotato.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\07.HotPotato\obj\Debug\net6.0\07.HotPotato.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\07.HotPotato\obj\Debug\net6.0\refint\07.HotPotato.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\07.HotPotato\obj\Debug\net6.0\07.HotPotato.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\07.HotPotato\obj\Debug\net6.0\07.HotPotato.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.StacksAndQueues-Lab\07.HotPotato\obj\Debug\net6.0\ref\07.HotPotato.dll

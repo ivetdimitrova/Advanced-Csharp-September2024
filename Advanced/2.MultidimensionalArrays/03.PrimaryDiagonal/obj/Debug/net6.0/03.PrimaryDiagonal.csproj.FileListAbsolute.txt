@@ -1,0 +1,14 @@
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.exe
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.deps.json
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.runtimeconfig.json
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.dll
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.pdb
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.dll
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\refint\03.PrimaryDiagonal.dll
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.pdb
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.genruntimeconfig.cache
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\03.PrimaryDiagonal\obj\Debug\net6.0\ref\03.PrimaryDiagonal.dll

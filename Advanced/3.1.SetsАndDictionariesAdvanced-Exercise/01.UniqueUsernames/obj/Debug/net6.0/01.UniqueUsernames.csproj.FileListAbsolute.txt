@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\refint\01.UniqueUsernames.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\01.UniqueUsernames\obj\Debug\net6.0\ref\01.UniqueUsernames.dll

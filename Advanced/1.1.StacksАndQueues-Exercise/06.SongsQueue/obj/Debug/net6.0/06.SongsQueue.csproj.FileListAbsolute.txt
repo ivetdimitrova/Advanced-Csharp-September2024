@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\06.SongsQueue\obj\Debug\net6.0\refint\06.SongsQueue.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\06.SongsQueue\obj\Debug\net6.0\ref\06.SongsQueue.dll

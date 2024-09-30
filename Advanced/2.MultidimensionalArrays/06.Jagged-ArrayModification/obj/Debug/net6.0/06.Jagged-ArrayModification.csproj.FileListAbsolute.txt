@@ -1,0 +1,14 @@
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\bin\Debug\net6.0\06.Jagged-ArrayModification.exe
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\bin\Debug\net6.0\06.Jagged-ArrayModification.deps.json
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\bin\Debug\net6.0\06.Jagged-ArrayModification.runtimeconfig.json
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\bin\Debug\net6.0\06.Jagged-ArrayModification.dll
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\bin\Debug\net6.0\06.Jagged-ArrayModification.pdb
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.AssemblyInfoInputs.cache
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.AssemblyInfo.cs
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.dll
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\refint\06.Jagged-ArrayModification.dll
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.pdb
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\06.Jagged-ArrayModification.genruntimeconfig.cache
+C:\Users\ivetd\source\repos\2.MultidimensionalArrays-Lab\06.Jagged-ArrayModification\obj\Debug\net6.0\ref\06.Jagged-ArrayModification.dll

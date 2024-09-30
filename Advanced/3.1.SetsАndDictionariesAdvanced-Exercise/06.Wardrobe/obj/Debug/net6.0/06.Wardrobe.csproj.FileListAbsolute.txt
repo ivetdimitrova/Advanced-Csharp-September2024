@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\refint\06.Wardrobe.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.1.SetsАndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\ref\06.Wardrobe.dll

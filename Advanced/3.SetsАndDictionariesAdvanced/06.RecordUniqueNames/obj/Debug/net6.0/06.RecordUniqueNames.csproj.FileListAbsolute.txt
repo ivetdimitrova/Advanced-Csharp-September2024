@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net6.0\refint\06.RecordUniqueNames.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\06.RecordUniqueNames\obj\Debug\net6.0\ref\06.RecordUniqueNames.dll

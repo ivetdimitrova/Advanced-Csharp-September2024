@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\02.AverageStudentGrades\bin\Debug\net6.0\02.AverageStudentGrades.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\02.AverageStudentGrades\bin\Debug\net6.0\02.AverageStudentGrades.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\02.AverageStudentGrades\bin\Debug\net6.0\02.AverageStudentGrades.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\02.AverageStudentGrades\bin\Debug\net6.0\02.AverageStudentGrades.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\02.AverageStudentGrades\bin\Debug\net6.0\02.AverageStudentGrades.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net6.0\02.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net6.0\02.AverageStudentGrades.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net6.0\02.AverageStudentGrades.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net6.0\02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net6.0\02.AverageStudentGrades.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net6.0\refint\02.AverageStudentGrades.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net6.0\02.AverageStudentGrades.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net6.0\02.AverageStudentGrades.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\3.SetsАndDictionariesAdvanced-Lab\02.AverageStudentGrades\obj\Debug\net6.0\ref\02.AverageStudentGrades.dll

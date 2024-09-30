@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\refint\03.MaximumAndMinimumElement.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\ref\03.MaximumAndMinimumElement.dll

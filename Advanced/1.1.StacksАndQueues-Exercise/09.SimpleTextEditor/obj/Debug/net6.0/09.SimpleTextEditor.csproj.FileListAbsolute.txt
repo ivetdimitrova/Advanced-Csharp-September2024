@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net6.0\refint\09.SimpleTextEditor.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\1.1.StacksАndQueues-Exercise\09.SimpleTextEditor\obj\Debug\net6.0\ref\09.SimpleTextEditor.dll

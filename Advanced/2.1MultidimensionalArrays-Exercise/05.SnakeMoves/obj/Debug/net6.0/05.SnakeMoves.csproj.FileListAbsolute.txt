@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\2.1MultidimensionalArrays-Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\2.1MultidimensionalArrays-Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\2.1MultidimensionalArrays-Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\2.1MultidimensionalArrays-Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\2.1MultidimensionalArrays-Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\2.1MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\2.1MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\2.1MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\2.1MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\2.1MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\2.1MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net6.0\refint\05.SnakeMoves.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\2.1MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\2.1MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\2.1MultidimensionalArrays-Exercise\05.SnakeMoves\obj\Debug\net6.0\ref\05.SnakeMoves.dll

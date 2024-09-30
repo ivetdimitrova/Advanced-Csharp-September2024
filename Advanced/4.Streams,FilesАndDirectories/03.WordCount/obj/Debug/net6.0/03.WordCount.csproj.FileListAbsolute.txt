@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\4.Streams,FilesАndDirectories-Lab\03.WordCount\bin\Debug\net6.0\03.WordCount.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\4.Streams,FilesАndDirectories-Lab\03.WordCount\bin\Debug\net6.0\03.WordCount.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\4.Streams,FilesАndDirectories-Lab\03.WordCount\bin\Debug\net6.0\03.WordCount.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\4.Streams,FilesАndDirectories-Lab\03.WordCount\bin\Debug\net6.0\03.WordCount.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\4.Streams,FilesАndDirectories-Lab\03.WordCount\bin\Debug\net6.0\03.WordCount.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\4.Streams,FilesАndDirectories-Lab\03.WordCount\obj\Debug\net6.0\03.WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\4.Streams,FilesАndDirectories-Lab\03.WordCount\obj\Debug\net6.0\03.WordCount.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\4.Streams,FilesАndDirectories-Lab\03.WordCount\obj\Debug\net6.0\03.WordCount.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\4.Streams,FilesАndDirectories-Lab\03.WordCount\obj\Debug\net6.0\03.WordCount.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\4.Streams,FilesАndDirectories-Lab\03.WordCount\obj\Debug\net6.0\03.WordCount.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\4.Streams,FilesАndDirectories-Lab\03.WordCount\obj\Debug\net6.0\refint\03.WordCount.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\4.Streams,FilesАndDirectories-Lab\03.WordCount\obj\Debug\net6.0\03.WordCount.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\4.Streams,FilesАndDirectories-Lab\03.WordCount\obj\Debug\net6.0\03.WordCount.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\4.Streams,FilesАndDirectories-Lab\03.WordCount\obj\Debug\net6.0\ref\03.WordCount.dll

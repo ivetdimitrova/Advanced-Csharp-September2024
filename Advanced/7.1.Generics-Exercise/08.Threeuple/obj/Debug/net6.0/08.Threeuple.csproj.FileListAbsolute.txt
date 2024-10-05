@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\08.Threeuple\bin\Debug\net6.0\08.Threeuple.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\08.Threeuple\bin\Debug\net6.0\08.Threeuple.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\08.Threeuple\bin\Debug\net6.0\08.Threeuple.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\08.Threeuple\bin\Debug\net6.0\08.Threeuple.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\08.Threeuple\bin\Debug\net6.0\08.Threeuple.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\08.Threeuple\obj\Debug\net6.0\08.Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\08.Threeuple\obj\Debug\net6.0\08.Threeuple.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\08.Threeuple\obj\Debug\net6.0\08.Threeuple.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\08.Threeuple\obj\Debug\net6.0\08.Threeuple.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\08.Threeuple\obj\Debug\net6.0\08.Threeuple.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\08.Threeuple\obj\Debug\net6.0\refint\08.Threeuple.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\08.Threeuple\obj\Debug\net6.0\08.Threeuple.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\08.Threeuple\obj\Debug\net6.0\08.Threeuple.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\08.Threeuple\obj\Debug\net6.0\ref\08.Threeuple.dll

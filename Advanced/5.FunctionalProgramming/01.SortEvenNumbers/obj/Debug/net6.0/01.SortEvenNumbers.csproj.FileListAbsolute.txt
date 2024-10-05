@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\01.SortEvenNumbers\bin\Debug\net6.0\01.SortEvenNumbers.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\01.SortEvenNumbers\bin\Debug\net6.0\01.SortEvenNumbers.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\01.SortEvenNumbers\bin\Debug\net6.0\01.SortEvenNumbers.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\01.SortEvenNumbers\bin\Debug\net6.0\01.SortEvenNumbers.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\01.SortEvenNumbers\bin\Debug\net6.0\01.SortEvenNumbers.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net6.0\01.SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net6.0\01.SortEvenNumbers.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net6.0\01.SortEvenNumbers.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net6.0\01.SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net6.0\01.SortEvenNumbers.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net6.0\refint\01.SortEvenNumbers.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net6.0\01.SortEvenNumbers.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net6.0\01.SortEvenNumbers.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\01.SortEvenNumbers\obj\Debug\net6.0\ref\01.SortEvenNumbers.dll

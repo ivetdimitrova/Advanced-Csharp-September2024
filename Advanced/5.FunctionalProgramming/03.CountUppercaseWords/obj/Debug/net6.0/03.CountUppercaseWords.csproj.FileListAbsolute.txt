@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net6.0\03.CountUppercaseWords.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net6.0\03.CountUppercaseWords.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net6.0\03.CountUppercaseWords.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net6.0\03.CountUppercaseWords.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\03.CountUppercaseWords\bin\Debug\net6.0\03.CountUppercaseWords.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\03.CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\03.CountUppercaseWords.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\03.CountUppercaseWords.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\03.CountUppercaseWords.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\refint\03.CountUppercaseWords.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\03.CountUppercaseWords.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\03.CountUppercaseWords.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.FunctionalProgramming-Lab\03.CountUppercaseWords\obj\Debug\net6.0\ref\03.CountUppercaseWords.dll

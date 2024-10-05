@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\refint\01.GenericBoxOfString.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\7.1.Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\ref\01.GenericBoxOfString.dll

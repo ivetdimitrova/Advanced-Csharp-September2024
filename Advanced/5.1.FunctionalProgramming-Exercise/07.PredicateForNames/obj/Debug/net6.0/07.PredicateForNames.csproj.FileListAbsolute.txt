@@ -1,0 +1,14 @@
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.1.FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\net6.0\07.PredicateForNames.exe
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.1.FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\net6.0\07.PredicateForNames.deps.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.1.FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\net6.0\07.PredicateForNames.runtimeconfig.json
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.1.FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\net6.0\07.PredicateForNames.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.1.FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\net6.0\07.PredicateForNames.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.1.FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.1.FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.AssemblyInfoInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.1.FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.AssemblyInfo.cs
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.1.FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.csproj.CoreCompileInputs.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.1.FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.1.FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\refint\07.PredicateForNames.dll
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.1.FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.pdb
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.1.FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\07.PredicateForNames.genruntimeconfig.cache
+C:\1.C#\C# Advanced - септември 2024\C# Advanced - септември 2024\5.1.FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\net6.0\ref\07.PredicateForNames.dll
